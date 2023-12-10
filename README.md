@@ -1,5 +1,10 @@
 # LinkCove
 
+## 链接
+
+- 官网：[https://baaa3yhw4fdhygl3pgnugvteoiyubgubf6j4mut2j3a.slp.abtnet.io](https://baaa3yhw4fdhygl3pgnugvteoiyubgubf6j4mut2j3a.slp.abtnet.io)
+- 论坛：TODO
+
 ## LinkCove 是什么
 
 一个安全的，隐私的个人链接去中心化的管理工具。
