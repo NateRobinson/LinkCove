@@ -2,8 +2,8 @@
 
 ## 链接
 
-- 官网：[https://baaa3yhw4fdhygl3pgnugvteoiyubgubf6j4mut2j3a.slp.abtnet.io](https://baaa3yhw4fdhygl3pgnugvteoiyubgubf6j4mut2j3a.slp.abtnet.io)
-- 论坛：TODO
+- 官网：[https://www.linkcove.cc/](https://www.linkcove.cc/)
+- 论坛：[https://www.linkcove.cc/content/discussions](https://www.linkcove.cc/content/discussions)
 
 ## LinkCove 是什么
 
