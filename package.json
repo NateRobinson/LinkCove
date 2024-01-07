@@ -57,11 +57,18 @@
     "dotenv-flow": "^3.3.0",
     "express": "^4.18.2",
     "express-async-errors": "^3.1.1",
+    "joi": "^17.11.0",
+    "mariadb": "^3.2.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.21.0",
     "rimraf": "^3.0.2",
-    "vite-plugin-blocklet": "^0.7.1"
+    "sequelize": "^6.35.2",
+    "snowflake-uuid": "^1.0.0",
+    "sqlite3": "^5.1.7",
+    "umzug": "^3.5.0",
+    "uuid": "^9.0.1",
+    "vite-plugin-blocklet": "^0.7.2"
   },
   "devDependencies": {
     "@arcblock/eslint-config": "^0.2.4",

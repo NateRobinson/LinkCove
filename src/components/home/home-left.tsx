@@ -9,6 +9,5 @@ const HomeLeft = ({ children }: { children: ReactNode }) => {
 export default HomeLeft;
 
 const Div = styled(Box)`
-  background-color: #bcf3bc;
   min-height: 100vh;
 `;

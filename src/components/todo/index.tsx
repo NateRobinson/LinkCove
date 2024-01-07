@@ -9,5 +9,5 @@ export default ToDo;
 
 const Div = styled(Box)`
   background-color: #83a3e3;
-  min-height: 20vh;
+  min-height: 100vh;
 `;
